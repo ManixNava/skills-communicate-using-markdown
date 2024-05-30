@@ -23,3 +23,8 @@ var myVar = "Hello, world!";
 ``` java
 System.out.println("Hello, world!");
 ```
+
+
+- [X] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
